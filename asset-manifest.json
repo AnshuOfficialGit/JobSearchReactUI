@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/JobSearchReactUI/static/css/main.658e5c50.css",
+    "main.js": "/JobSearchReactUI/static/js/main.2039a68e.js",
+    "static/media/login-bg.png": "/JobSearchReactUI/static/media/login-bg.74e606bbe11ad42b512a.png",
+    "static/media/jobseeker.png": "/JobSearchReactUI/static/media/jobseeker.8bb0e68785b0ab858587.png",
+    "static/media/recruiter-img.webp": "/JobSearchReactUI/static/media/recruiter-img.67aa9a64613bf9d2a582.webp",
+    "static/media/register-bg.png": "/JobSearchReactUI/static/media/register-bg.272a38a020c7461df93d.png",
+    "index.html": "/JobSearchReactUI/index.html",
+    "main.658e5c50.css.map": "/JobSearchReactUI/static/css/main.658e5c50.css.map",
+    "main.2039a68e.js.map": "/JobSearchReactUI/static/js/main.2039a68e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.658e5c50.css",
+    "static/js/main.2039a68e.js"
+  ]
+}
