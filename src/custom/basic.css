@@ -1,0 +1,13 @@
+.login-bg{
+    height: 300px;
+    width: 400px;
+}
+
+.job-bg{
+    height: 200px;
+    width: 300px;
+    align-items: center;
+}
+.decoration{
+    text-decoration: none;
+}
